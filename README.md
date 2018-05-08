@@ -16,7 +16,7 @@ output:
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Kathleen Cagney </h1>
-<h3 class=pfblock-header3> Associate Professor, Sociology; Health Studies Director, Population Research Center, NORC; Executive Committee Member, Masters in Computational Social Science Program </h3>
+<h3 class=pfblock-header3> Professor of Sociology and the College; Director, Population Research Center; Deputy Dean, Division of the Social Sciences </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
 <br><br>
@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/kathleen_cagney/blob/master/2018__cagney__tbd_na_na.pdf" >TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/kathleen_cagney/blob/master/2018__cagney_et_al__activity_space_pt1_2017.pdf" >Activity Space and Neighborhood Social Context</a>
 </h2>
 
 <br>
@@ -37,7 +37,15 @@ output:
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** 
+
+Objectives: Prior research emphasizes the importance of the residential neighborhood context during later life but little attention has been afforded to other areas that older adults encounter as they move beyond their residential environments for daily activities and social interactions. This study examines the predominance of the residential context within older adults’ everyday lives.
+
+Method: We provided 60 older adults in four New York City neighborhoods with iPhones, which captured Global Positioning Systems (GPS) locations at 5-min intervals over 1 week (n = 55,561) and 17 ecological momentary assessments (EMAs) over 4 days (n = 757) to assess real-time activities.
+
+Results: Older adults in our sample spent nearly 40% of their time outside of their residential tracts and they visited 28 other tracts, on average. Exercising, shopping, socializing, and social activities were especially likely to take place outside of residential tracts. Differences in residential and nonresidential poverty exposure vary across gender, race/ethnicity, education, car ownership, and residential areas.
+
+Discussion: Measuring activity space, rather than relying on residential tracts, allows examination of the social environments that are relevant for older adults’ everyday lives. Variation in characteristics of activity spaces may be an underexplored source of differences in health and well-being during later life.
 </p>
 
 <br>
@@ -48,13 +56,13 @@ output:
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by TBD.</p>
+<p class=pfblock-header3>A light lunch will be provided by Papa Johns.</p>
 
 <br><br>
 
 <p class=footertext2>
 
-**Kathleen Cagney** TBD
+**Kathleen Cagney's** work examines social inequality and its relationship to health with a focus on neighborhood, race, and aging and the life course.  She has developed a series of papers on neighborhood social capital and its relationship to outcomes such as self-rated health, asthma prevalence, physical activity, and mortality during the 1995 Chicago heat wave.  She also focuses on the validity of such measures and the development of new neighborhood-based metrics that reflect the perceptions and experiences of older residents.  Currently she works on two Chicago-based studies of neighborhood context and older adult health, and is examining the role of the social and physical environment in older adult well-being with the National Social Life, Health, and Aging Project.
 </p>
 
 
